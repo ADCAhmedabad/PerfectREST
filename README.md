@@ -4,7 +4,7 @@
 ### Setup & Run Project
 * Verify Swift Package Manger: https://github.com/apple/swift-package-manager#installation
 * Install PostgreSQL if required (Use following link to easily get setup done): https://postgresapp.com
-* Configurations will be required **PostgresConnector** in `Source/Demo/main.swift` file as per your database setup.
+* Configurations will be required **PostgresConnector** in `Sources/Demo/main.swift` file as per your database setup.
 * To run project:
     * Check out or download the project
     * In terminal, navigate to the directory
